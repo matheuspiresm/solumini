@@ -1,0 +1,101 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: rgb(196, 196, 196);
+}
+  
+main{
+  margin: 50px;
+  
+}
+
+.principal{
+  margin: 20px;
+}
+
+.menu{
+  width: 400px;
+  background-color: #e3e2e2;
+  margin: 100px auto;
+  padding: 50px;
+  border-radius: 20px;
+  position: relative;
+}
+
+
+label{
+  margin-top: 10px;
+  text-align: center;
+}
+
+table{
+  margin: auto;
+  font-size: 20px;
+  text-align: center;
+  background: rgba(0,0,0,0.1);
+  border-radius: 20px;
+  width: 100%;
+}
+
+th,
+td{
+  padding: 10px;
+}
+
+.box-search{
+  display: flex;
+  justify-content: center;
+  gap: 0.3%;
+}
+
+legend{
+  margin-top: 5px;
+  text-align: center;
+}
+
+.box{
+  margin: 100px auto;
+  width: 500px;
+  background-color: #e3e2e2;
+  padding: 30px;
+  border-radius: 20px;
+}
+
+.input-box{
+  margin-bottom: 5px;
+
+}
+
+a.btn{
+
+  width: 50px;
+  margin: 0px;
+}
+
+.btn-edit{
+  color: black;
+  border: 1px solid red;
+  width: 50px;
+  background-color: beige;
+}
+
+
+btn-md{
+  margin: 50px;
+}
+
+h1{
+  text-align: center;
+  font-size: 25px;
+
+}
+
+table{
+  border: 20px;
+}
+
+.t-login{
+  text-decoration: underline;
+}
+
